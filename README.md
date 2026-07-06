@@ -2,13 +2,12 @@
 
 # Hi there, I'm Cleven Samwel 👋🚀
 
-### **Software Developer | Full-Stack
+### Software Developer | Full-Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/cleven-samwel)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/clevensam)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:clevensamwely@gmail.com)
 
-📍 Moshi, Tanzania
 
 ---
 
