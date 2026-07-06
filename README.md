@@ -1,3 +1,5 @@
+<div align="center">
+
 Hi there, I'm Cleven Samwel 👋🚀
 
 **Software Developer | Full-Stack | TypeScript & Go**
@@ -47,8 +49,8 @@ Software developer building full-stack apps with **TypeScript**, **React**, **Ne
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=clevensam&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevensam&layout=compact&hide_border=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=clevensam&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevensam&layout=compact&hide_border=true&theme=tokyonight" height="165" />
 
 ---
 
@@ -59,3 +61,5 @@ Software developer building full-stack apps with **TypeScript**, **React**, **Ne
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:clevensamwely@gmail.com)
 
 📍 Moshi, Tanzania · 📧 clevensamwely@gmail.com
+
+</div>
