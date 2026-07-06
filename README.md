@@ -1,8 +1,14 @@
 <div align="center">
 
-Hi there, I'm Cleven Samwel 👋🚀
+# Hi there, I'm Cleven Samwel 👋🚀
 
-**Software Developer | Full-Stack | TypeScript & Go**
+### **Software Developer | Full-Stack | TypeScript & Go**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/cleven-samwel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/clevensam)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:clevensamwely@gmail.com)
+
+📍 Moshi, Tanzania
 
 ---
 
@@ -46,15 +52,4 @@ Software developer building full-stack apps with **TypeScript**, **React**, **Ne
 
 <img src="https://github-readme-stats.vercel.app/api?username=clevensam&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevensam&layout=compact&hide_border=true&theme=tokyonight" height="165" />
-
----
-
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/cleven-samwel)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/clevensam)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:clevensamwely@gmail.com)
-
-📍 Moshi, Tanzania · 📧 clevensamwely@gmail.com
-
 </div>
