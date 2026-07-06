@@ -18,16 +18,6 @@ I build **full-stack apps** that solve real problems for real people. From POS s
 
 ---
 
-## 📌 Stuff I've Built
-
-| Project | What it does |
-|---------|-------------|
-| [EnvX](https://github.com/clevensam/envx-cli) | CLI to manage .env files across projects — no more config chaos |
-| [Mangi Store](https://mangi-store.vercel.app) | POS + inventory system that cut manual work by 4h/day |
-| [Church Management](https://github.com/clevensam/Church-manangement-system) | Digitized financial tracking — reports in minutes not days |
-
----
-
 ## 📊 GitHub Pulse
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=clevensam&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
