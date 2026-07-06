@@ -10,11 +10,6 @@ Hi there, I'm Cleven Samwel 👋🚀
 
 Software developer building full-stack apps with **TypeScript**, **React**, **Next.js**, **Node.js**, **Golang**, **Docker**, and **PostgreSQL**. I enjoy solving real-world problems through clean, scalable code.
 
-🌍 Based in Moshi, Tanzania  
-🎓 BSc Computer Science @ Mbeya University of Science and Technology  
-💡 Building [EnvX](https://github.com/clevensam/envx-cli) — env variable management platform  
-🤝 Open to remote work & collaborations
-
 ---
 
 ### 🛠️ Technologies I Work With
