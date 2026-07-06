@@ -46,10 +46,4 @@ Software developer building full-stack apps with **TypeScript**, **React**, **Ne
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=clevensam&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevensam&layout=compact&hide_border=true&theme=tokyonight" height="165" />
 </div>
